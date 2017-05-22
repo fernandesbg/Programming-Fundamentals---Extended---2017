@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\bin\Debug\SinoTheWallker.exe.config
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\bin\Debug\SinoTheWallker.exe
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\bin\Debug\SinoTheWallker.pdb
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\obj\Debug\SinoTheWallker.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\obj\Debug\SinoTheWallker.exe
+C:\Users\Mihail Fernandes\Desktop\Soft uni\Programming Fundamentals\Exam Preparation I\Exam Preparation I\SinoTheWallker\obj\Debug\SinoTheWallker.pdb
